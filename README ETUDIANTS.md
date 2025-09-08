@@ -1,7 +1,8 @@
 pour chaque groupe participants:
 
-NOM prenom 
- - x
- - y
- - 7
-...
+NOM prenom
+
+* BOURDINOT thomas
+* HELBERT titouan
+* BAGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOT Martin
+  ...
