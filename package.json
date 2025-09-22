@@ -35,7 +35,9 @@
     "watch": "jest --watch",
     "golf1": "jest -i src/12_RefactoringGolf/exo3/ --watchAll=true"
   },
-  "dependencies": {},
+  "dependencies": {
+    "node": "^24.8.0"
+  },
   "devDependencies": {
     "@commitlint/cli": "^18.4.2",
     "@commitlint/config-conventional": "^18.4.2",
@@ -46,6 +48,7 @@
     "@types/jest": "^29.5.7",
     "@typescript-eslint/eslint-plugin": "^6.11.0",
     "@typescript-eslint/parser": "^6.11.0",
+    "error-ex": "^1.3.4",
     "eslint": "^8.52.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-import": "^2.29.0",
